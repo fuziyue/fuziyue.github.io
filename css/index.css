@@ -433,6 +433,10 @@
 	overflow:hidden;
 	cursor:pointer;
 }
+.team_box .headimg img{
+	width: 100%;
+	height: 100%;
+}
 .team_box .headimg a{
 	width:156px;
 	height:156px;
